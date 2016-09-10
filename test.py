@@ -1,5 +1,7 @@
 #!/usr/bin/python3
 
+#TODO: trademark
+
 #from Crypto.Hash import SHA256
 #from Crypto.Cipher import AES
 from Cryptodome.Cipher import AES
